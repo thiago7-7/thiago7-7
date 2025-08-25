@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ criando bugs desde  2025<br>📚 estou no primeiro ano da faculdade<br>🎯 metas:  em busca de uma oportunidade na area
+<p align="left">✨ criando bugs desde  2025<br>📚 estou no primeiro ano da faculdade<br>🎯 metas:  em busca de uma oportunidade na area <br>
 - 🌱 atualmento estou aprendendo HTML5 E CSS3
 </p>
 
@@ -52,5 +52,5 @@
 ###
 
 
-- 🌱 I’m currently learning HTML5 E CSS3
+
 
